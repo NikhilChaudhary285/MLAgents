@@ -182,13 +182,13 @@ IL → Learns via expert data
 
 # 🔗 Links
 
-GitHub:
+GitHub:/n
 https://github.com/NikhilChaudhary285/MLAgents
 
-ML-Agents Setup Guide:
+ML-Agents Setup Guide:/n
 https://drive.google.com/file/d/1zQKPdciqnsfG9Id0iefJR03OemKkTB7x/view?usp=sharing
 
-ML-Agents ZIP File:
+ML-Agents ZIP File:/n
 https://drive.google.com/file/d/1VhoXz61Y6u3euByQUN9HaaH7WFDTHBSy/view?usp=sharing
 
 ⭐ Feel free to explore this repository and connect with me. I’m always open to discussions around Unity AI, ML-Agents, reinforcement learning, and scalable game architecture.
