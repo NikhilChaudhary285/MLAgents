@@ -182,7 +182,7 @@ IL → Learns via expert data
 
 # 🔗 Links
 
-GitHub:
+GitHub Repository:
 [ML-Agents GitHub Repository](https://github.com/NikhilChaudhary285/MLAgents)
 
 ML-Agents Demo Video:
